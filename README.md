@@ -2,11 +2,6 @@
 
 A male/female gender prediction application that uses a camera or gallery image based on a deep learning model; with some datasets for testing.
 
-## Technologies
-
-- **Streamlit** : interface web
-- **TensorFlow/Keras** : modèle de classification
-- **PIL** : traitement d'images
 
 ## Installation
 
