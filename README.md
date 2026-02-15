@@ -16,8 +16,7 @@ pip install -r requirements.txt
 
 ## Utilisation
 
-1. Placez le fichier `modele_homme_femme.h5` dans le dossier `code&dataset/`
-2. Depuis le dossier du projet :
+1. Depuis le dossier du projet :
    ```bash
    cd "code&dataset"
    streamlit run app.py
@@ -27,4 +26,4 @@ pip install -r requirements.txt
 
 - `app.py` : application Streamlit
 - `code.ipynb` : notebook d'entraînement du modèle
-- `modele_homme_femme.h5` : modèle pré-entraîné (à ajouter localement)
+- `modele_homme_femme.h5` : modèle pré-entraîné
