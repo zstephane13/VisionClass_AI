@@ -1,6 +1,6 @@
 # VisionClass AI
 
-Application de prédiction **Homme / Femme** à partir d'une image, basée sur un modèle de deep learning.
+A male/female gender prediction application that uses a camera or gallery image based on a deep learning model; with some datasets for testing.
 
 ## Technologies
 
