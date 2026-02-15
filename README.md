@@ -9,16 +9,16 @@ A male/female gender prediction application that uses a camera or gallery image 
 pip install -r requirements.txt
 ```
 
-## Utilisation
+## use
 
-1. Depuis le dossier du projet :
+From the project file :
    ```bash
    cd "code&dataset"
    streamlit run app.py
    ```
 
-## Structure du projet
+## Project structure
 
-- `app.py` : application Streamlit
-- `code.ipynb` : notebook d'entraînement du modèle
-- `modele_homme_femme.h5` : modèle pré-entraîné
+- `app.py` : Streamlit application
+- `code.ipynb` : model training notebook
+- `modele_homme_femme.h5` : pre-trained model
