@@ -3,7 +3,6 @@
 
 # Fichiers volumineux (limite GitHub : 100MB par fichier)
 dataset.zip
-code&dataset/modele_homme_femme.h5
 code&dataset/training_set/
 code&dataset/test_set/
 
